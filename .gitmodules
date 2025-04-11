@@ -38,6 +38,12 @@
 [submodule "externals/cub"]
     path = externals/cub
     url = https://github.com/NVlabs/cub.git
+[submodule "externals/hipCUB"]
+    path = externals/hipCUB
+    url = https://github.com/ROCmSoftwarePlatform/hipCUB.git
+[submodule "externals/rocPRIM"]
+    path = externals/rocPRIM
+    url = https://github.com/ROCmSoftwarePlatform/rocPRIM.git
 [submodule "Submod"]
     branch = rljacob/e3smconfig/elm-name
 [submodule "components/mpas-ocean/src/cvmix"]
@@ -56,3 +62,9 @@
     path = externals/mct
     url = https://github.com/MCSclimate/MCT.git
 
+[submodule "externals/YAKL/cub"]
+	url = https://github.com/NVlabs/cub.git
+[submodule "externals/YAKL/hipCUB"]
+	url = https://github.com/ROCmSoftwarePlatform/hipCUB.git
+[submodule "externals/YAKL/rocPRIM"]
+	url = https://github.com/ROCmSoftwarePlatform/rocPRIM.git
